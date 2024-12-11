@@ -1,0 +1,92 @@
+Cibersegurança O que é?
+
+É um conjunto de ações e técnicas para proteger sistemas, programas, redes e equipamentos contra invasões.
+fonte: Cybersecurity & Infrastructure Security Agency
+
+Foco: Garantir que dados não vazem ou sejam violados em ataques cibernéticos.
+
+Função: Voltada para software, hardware e redes; previne problemas com gestão de informações; Protege os dados Armazenados.
+
+Tipos:
+Segurança operacional 	 -	É a parte das rotinas de segurança operacional, na qual a empresa protege seus dados definindo quem acessa e os níveis de acesso
+
+Segurança de rede	 -	É encarregada de proteger a rede contra acessos indevidos e ataques como DoS(Denial of Service - sobrecarregar até derrubar o serviço)
+
+Segurança de aplicativos -	É a resposta as ameaças aos software instalados nos computadores e dispositivos móveis em geral, implementando protocolos de segurança durante seu desenvolvimento.
+
+Educação de usuário final - 	Encontrar e corrigir comportamentos de riscos dos usuários que podem expor dados sensíveis ou colocar uma organização em risco.	
+exemplo: passar senha por telefone, digitar senha com colega olhando a tela, plugar pendrive desconhecido pra ver o que tem dentro....
+
+Recuperação de desastres  -
+
+Pilares(contínuo)
+
+identificação, proteção, detecção, resposta, recuperação.	
+
+O que é hacking?
+
+Comprometer sistemas de computador, contas pessoais, redes de computador ou dispositivos digitais.
+Quando invade de rede ou sistema de forma maliciosa é um cracker.
+
+Tipos de hackers
+Black hat: chapéu preto, utiliza conhecimento para fins maliciosos
+White hat: chapéu branco, hacker ético, utiliza conhecimento para detectar ameaças e proteger sistemas com base em acordos e contratos.
+Grey hat: chapéu cinza, um intermediário, onde testa os sistemas para identificar falhas e depois avisar a organização para oferecer uma solução.
+
+
+Principais ameaças
+
+Top 15
+Malware, Web-based Attack, Phishing, Web Application Attacks, Spam, DDoS, Identity theft, Data breach, Insider Theat, Botnets, Phisycal Manipulation Damage, theft and loss, Information leakage, Ransomware, Cyberespionage, Cryptojacking.
+
+Boas práticas de cibersegurança
+
+Conscientização de pessoas:
+Abordagem de segurança centrada nas pessoas
+Reduzir o nível de negligência dos funcionários
+Informe os funcionários sobre técnicas comuns de phishing
+
+Controle de acesso a ativos críticos:
+Proteção o acesso as senhas com segurança;
+Manipular as senhas com segurança
+Usar o princípio do privilégio mínimo
+
+Proteção de dados confidenciais:
+Atenção nos usuários privilegiados
+Monitoramento de acesso de terceiros aos dados
+Manter Backup de seus dados confidenciais
+
+Segurança robusta e proteção de rede:
+Uso de políticas hierárquicas de segurança cibernética
+Proteger a rede corporativa
+Auditoria regulares de segurança cibernética
+
+Gerenciamento de identidades:
+
+Empregar segurança biométrica
+Usar Autenticação Multifator
+
+Red team vs Blue team
+
+Red team
+Ataque, Ethical hacking, explora vulnerabilidades, teste de penetração, black box testing, engenharia social, web app scanning
+
+Formado com objetivo de realizar testes de ciber ataque com profissionais de alto conhecimento sobre as principais ameaças e ataques existentes, sendo capazes de simular tentativas de penetrar ne rede e ou sistemas.
+
+Blue team
+
+O papel é se opor aos ataques ensaiados pelo Red team, desenvolvendo estratégias para aumentar as defesas, modificando e reagrupando os mecanismos de proteção da rede para que eles se tornem mais fortes. 
+
+Defesa, defesa security, infrastructure protection, damage control, incidente response (IR), Operacional Security, threat Hunters, Digital Forensics
+
+Purple team
+
+Mescla os dois times.
+
+Certificações
+
+CEH - Certified Ethical Hacker
+ECSA - EC-Council Certified Security Analyst
+
+
+
