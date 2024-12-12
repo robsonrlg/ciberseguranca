@@ -1,0 +1,49 @@
+Sistema operacional é um Software que atua como intermediário entre usuário e hardware do computador.
+
+Funções
+
+Gerenciamento de processos
+Gerenciamento de memória
+Gerenciamento de dispositivos
+Gerenciamento de arquivos
+Segurança
+Detecção de erros
+Agendamento de tarefas
+
+Recursos dos SO's
+
+Fornece uma plataforma para executar aplicativos
+Gerenciamento de memória e CPU
+Fornece abstração do sistema de arquivos
+Fornece suporte de rede
+Fornece recursos de segurança
+Fornece interface de usuário
+Fornece Utilitário e serviços de sistema
+Suporte ao desenvolvimento de aplicativos
+
+Componentes dos SO's
+
+Shell
+Trata das interações do usuário, sendo a camada mais externa do sistema operacional e gerencia a interação entre o usuário e sistema operacional
+
+Funções
+Solicitar entradas do usuário
+interpretar a entrada para o sistema operacional
+Manipular a saída do sistema operacional
+
+Kernel
+Componente central de um SO, do qual todos os outros componentes do sistema dependem para fornecer serviços essenciais, atuando como a interface principal entre o SO e o hardware.
+
+Aplicação -> Kernel -> CPU
+		    -> memória
+		    -> devices
+
+Funções
+Gerenciamento de entrada-saída
+Gerenciamento de memória
+Gerenciamento de processos para execução de aplicativos
+Gerenciamento de dispositivos
+Controle de camada do sistema
+
+Exemplos
+Windows, MacOS, Linux, Android
