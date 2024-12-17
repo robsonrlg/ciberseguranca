@@ -47,3 +47,47 @@ Controle de camada do sistema
 
 Exemplos
 Windows, MacOS, Linux, Android
+
+
+Windows
+1.0	1985
+3.1	1992
+95	1995
+XP	2001
+Vista	2006
+7	2009
+8	2012
+10	2015
+11	2021
+
+exemplo de Vírus 
+
+WinNT.Remote Explorer; WinNT.Infis; Win95.CIH; Win32.Kriz; Win95.Babylonia
+
+Prevenção
+
+Manter atualizações do SO em dia; Utilizar Antivírus; Bom senso do que acessa
+
+
+Linux
+
+Unix 1969 assembly
+1973 reescrito em C
+
+Criado por Linus Torvalds junto com programadores através da Usenet
+
+
+Linux é o nome dado ao núcleo do sistema operacional, o Kernel
+
+É um SO Open-Source, pode ser editado e distribuído sem o pagamento de Royalties.
+
+
+Vulnerabilidades do Linux
+
+O nível de risco da vulnerabilidade é definido pelo CVSS(Common Vulnerability Scoring System) Com uma representação numérica 0-10
+
+CVE-2022-0435	(CVSS Score:9.0)
+CVE-2022-0492	(CVSS Score:7.8)
+CVE-2022-28893	(CVSS Score:7.2)
+CVE-2022-0998	(CVSS Score:7.2)
+CVE-2022-0995	(CVSS Score:6.6)
