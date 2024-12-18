@@ -92,3 +92,25 @@ CVE-2022-28893	(CVSS Score:7.2)
 CVE-2022-0998	(CVSS Score:7.2)
 CVE-2022-0995	(CVSS Score:6.6)
 
+Aula de instalação de SO Kali linux no virtual box
+
+Vem com ferramentas 
+Metaploit, Nmap; Wireshark; Aircrack-ng.
+
+Interfaces, Gnome shell; XFCE; KDE Plasma
+
+
+Configuração mínima para instalar o Kali Linux
+
+4gb, 2 processadores
+
+Ele instala com base do ubuntu no virtualbox
+
+Partition disks: Use entire disk
+
+na instalação do grub seleciona o hd virtual
+
+https://github.com/cassiano-dio
+
+ISO
+https://academiapme-my.sharepoint.com/personal/leonardo_ropelato_dio_me/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleonardo%5Fropelato%5Fdio%5Fme%2FDocuments%2FForma%C3%A7%C3%B5es%2FCybersecurity%2F%5BCompartilhado%5D%20Arquivos%20%2D%20ISO%20Imagens&ga=1 
