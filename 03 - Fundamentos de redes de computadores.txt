@@ -1,3 +1,16 @@
-==============================Introdução==============================
+==============================Introdução Redes==============================
+
+*Conceitos de redes de computador*
+
+Redes de computadores referem-se a dispositivos de computação interconectados que podem trocar dados e compartilhar recursos entre si.
+
+*Componentes de computador*
 
 
+*Protocolos de redes de computadores*
+
+
+*Endereços de IP*
+
+
+*Privacidade com Proxy e VPN*
