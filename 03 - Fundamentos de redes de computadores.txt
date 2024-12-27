@@ -3,6 +3,38 @@
 *Conceitos de redes de computador*
 
 Redes de computadores referem-se a dispositivos de computação interconectados que podem trocar dados e compartilhar recursos entre si.
+Protocolos de comunicação, para transmitir informações por meio de tecnologias físicas ou sem fio.
+
+**Termos e conceito**
+-Nós: equipamento conectado à rede (Computador, hub, switch, terminal etc);
+
+-Links: Meio de transmissão que conecta dois nós, com ou sem cabo.
+
+-Arquitetura: Define as especificação para os componentes físicos da rede, protocolos, procedimentos etc...
+
+-Endereço IP: Número atribuído para cada dispositivo conectado na rede.
+
+-Portas: Identifica uma conexão específica(Protocolos)
+ex:192.168.10.15:8080(IP:Porta)
+
+-Tipos de Arquiteturas: Cliente servidor; Ponto a ponto(P2P)
+
+-Tipos de topologias
+
+-Barramento: Cada nó está vinculado a um outro nó, a tranmissão de dados pelas conexões de rede ocorre em uma direção.
+
+-Anel: Cada nó está vinculado a 2 outros nós, formando um anel, os dados podem fluir em 2 direções. falha a rede toda se um nó se desativar.
+
+-Estrela: um nó de servidor central está vinculado a vários dispositivos de rede cliente, essa topologia tem melhor performance, pois os dados não precisam passar por cada nó.
+
+- Malha: cada nó conectado a muitos outros nós, em uma topologia malha completa, cada nó está conectado a todos os outros nós entre si da rede.
+
+**Tipos de rede**
+-LAN(Local Area Network):Conecta dispositivos no mesmo ambiente
+-MAN(Metropolitan Area Network): Conecta redes locais com distâncias maiores
+-WAN(Wide Area Network):Rede de longa distância e conecta dispositivos em países e continentes
+-SAN(Storage Area Network):Armazena dados da rede e faz comunicação entre servidor e os demais dispositivos.
+-VLAN(Virtual LAN):Reúne diversas máquinas de forma lógica e não física.
 
 *Componentes de computador*
 
@@ -14,3 +46,4 @@ Redes de computadores referem-se a dispositivos de computação interconectados 
 
 
 *Privacidade com Proxy e VPN*
+
