@@ -78,16 +78,19 @@ Há uma camada de internet em TCP/IP mas na OSI se chama Redes(São a mesma cama
 
 Portas e protocolos
 
-APP		-     protocol	-     port number
-FTP cliente	-	TCP	-	 20
-FTP server	-	TCP	-	 21
-SSH		-	TCP	-	 22
-Telnet		-	TCP	-	 23
-SMTP		-	TCP	-	 25
-DNS		-     UDP/TCP	-	 20
-DHCP		-	UDP	-	67,68
-TFTP		-	UDP	-	69
-
+APP		-     protocol	-     port number	-	Name
+FTP cliente	-	TCP	-	 20		-	File transfer Protocol
+FTP server	-	TCP	-	 21		-	File transfer Protocol
+SSH		-	TCP	-	 22		-	Secure Shell
+Telnet		-	TCP	-	 23		-	Telnet
+SMTP		-	TCP	-	 25		-	Simple Mail Transport protocol
+DNS		-     UDP/TCP	-	 20		-	Domain Name System
+DHCP		-	UDP	-	67,68		-	Dynamic Host Configuration Protocol
+TFTP		-	UDP	-	69		-	Trivial file transfer prococol
+HTTP		-	TCP	-	80		-	Hypertext tranfer protocol
+POP3		-	TCP	-	110		-	Post Office Protocol 3
+SNMP		-	UDP	-	161		-	Simple Network Management protocol
+HTTPS		-	TCP	-	443		-	Hypertext tranfer protocol secure
 
 
 *Endereços de IP*
