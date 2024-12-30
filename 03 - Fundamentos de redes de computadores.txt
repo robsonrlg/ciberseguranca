@@ -41,6 +41,54 @@ ex:192.168.10.15:8080(IP:Porta)
 
 *Protocolos de redes de computadores*
 
+São conjuntos de normas que permitem comunicação entre as máquinas, funcionam como uma linguagem universal.
+-Modelos de camadas: definem regras e orientação para que haja a intermocunicação  entre os dispositivos de rede, independende do modelo ou fabricantes.
+cada camada realiza uma trabalho e passa para outra camada.
+Serve para delimitar as funções das regras de comunicação, dos serviços e das interfaces, serve como referência de comparação entre protocolos e serviços de pilha.
+
+Modelo TCP/IP
+
+aplicação:WWW, HTTP, SMTP, Telnet, FTP, SSH, NNTP, RDP, IRC, SNMP, POP3, IMAP,SIP, DNS, PING
+transporte:TCP, UDP, RTP, DCCP, SCTP.
+internet:IPv4, IPv6, IPsec, ICMP
+acesso a rede:Ethernet, Modem, PPP
+
+No inicio, o modelo osi foi o primeiro a ser usado, sendo base para nomeclatura e para redes, atualmente o modelo TCP/IP tem sido mais usado em todo mundo.
+
+Modelo OSI(Open system interconnetion)
+
+Aplicação
+Apresentação
+Sessão
+Tranporte
+Rede
+Enlace
+Física
+
+Decomposição dos componentes da rede em partes que são menores
+Padronização dos componentes presentes na rede
+Comunicação entre diversos tipos de hardware e software
+Evita alterações em uma camada afetem as configurações de outra.
+
+OSI vs TCP/IP
+
+OSI 7 camadas - TCP/IP 4camadas
+TCP/IP Mesclou as camadas 1 e 2 do OSI para camada aplicação
+Há uma camada de internet em TCP/IP mas na OSI se chama Redes(São a mesma camada)internet(TCP/IP)=redes(OSI)
+
+Portas e protocolos
+
+APP		-     protocol	-     port number
+FTP cliente	-	TCP	-	 20
+FTP server	-	TCP	-	 21
+SSH		-	TCP	-	 22
+Telnet		-	TCP	-	 23
+SMTP		-	TCP	-	 25
+DNS		-     UDP/TCP	-	 20
+DHCP		-	UDP	-	67,68
+TFTP		-	UDP	-	69
+
+
 
 *Endereços de IP*
 
