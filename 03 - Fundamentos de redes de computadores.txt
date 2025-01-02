@@ -93,8 +93,57 @@ SNMP		-	UDP	-	161		-	Simple Network Management protocol
 HTTPS		-	TCP	-	443		-	Hypertext tranfer protocol secure
 
 
-*Endereços de IP*
+*Endereços de IP* (Internet Protocol)
 
+Número único dentro da mesma rede, uma seguencia de números, representados por um conjunto de quatro números conhecidos por octetos
+Exemplos:192.158.1.38(contém 8 bits em cada octeto)
+
+192.168.100.1 = 11000000.10101000.01100100.00000001
+
+-Mascara de rede: Tem 32 bits, assim como o ip e trabalham juntos cada ip tem sua máscara de rede para identificar o host
+
+hosts	redes	CIDR	Máscara
+1	256	/32	255.255.255.255
+2	128	/31	255.255.255.254
+4	64	/30	255.255.255.252
+8	32	/29	255.255.255.248
+16	16	/28	255.255.255.240
+32	8	/27	255.255.255.224
+64	4	/26	255.255.255.192
+128	2	/25	255.255.255.128
+256	1	/24	255.255.255.0
+
+Classes de ip
+
+Classe A 255.0.0.0	126 redes, 16.777.214 hosts por rede(2^24-2)
+Classe B 255.255.0.0	16.384 redes(2^14), 64.534 hosts por rede(2^16-2)
+Classe C 255.255.255.0	2.097.150 redes(2^21),254 hosts por rede(2^8-2)
+Classe D Multicast
+Classe E Experimental
+
+ipv4	-	ipv6
+1981		1998
+
+32bit	-	128bit
+4.3 billion	7.9*10^28
+192.168.5.18	50b2:6400:0000:0000:6c3a:b17b:000:10a9(50b2:6400::6c3a:b17b:0:10a9)-simplificado.
+
+Ataques contra ip
+
+Engenharia social, ciberstalking, Donwload de conteúdo ilegal usando seu ip, Rastrear sua localização, Ataque direto à sua rede, ataque em seu dispositivo
 
 *Privacidade com Proxy e VPN*
+
+VPN (Redes Privadas Virtuais e proxies são soluções potenciais porque adicionam uma camada extra entre uma navegador e qualquer empresa de rastreamento de dados ou governo 
+
+Vantagens da VPN
+Criptografa a conexão, os hackers potenciais mão podem escutar a transmissão para roubar dados
+Evita que um provedor ou empregador espie o trafego do roteador.
+
+Proxy
+Um servidor proxy é normalmente um servidor público remoto acessando através de um Aplicativo web ou programa desktop que acessa a pagina web "em seu nome"
+Como se fosse uma procuração, proxy que acessa a internet.
+
+
+
 
