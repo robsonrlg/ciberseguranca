@@ -1,0 +1,36 @@
+1- Deep Web ou Dark Web
+
+Camadas da internet :
+
+Surface Web
+Voltado para todos a internet que conhecemos
+
+Deep Web ou Dark Web
+Sites não indexados, não encontrados pelos navegadores comuns, necessitando de técnicas/ferramentas para acesso. é uma rede descentralizada, não se sabe a dimensão exata da Deep web. Normalmente usada para manter atividades anônimas e privadas na internet que podem ser legais ou não.
+
+redes
+
+Onion
+Freenet
+I2p
+ 
+Perigos da deep web(Terra sem lei)
+
+Software malicioso, monitoramento do governo, golpes
+
+2- Instalando  Tails linux no virtualBox
+
+
+
+3- Configurando uma VPN para navegar na DeepWeb
+
+
+
+4- Navegação Anônima com VPN
+
+
+5- Navegação anônima com Proxy
+
+
+
+
