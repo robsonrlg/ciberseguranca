@@ -18,6 +18,11 @@ Perigos da deep web(Terra sem lei)
 
 Software malicioso, monitoramento do governo, golpes
 
+Navegar na deep web pelo Tor Browser
+Tor é uma rede de VPNs que permite melhorar privacidade e segurança na internet
+Tor envia o seu tráfego por 3 servidores aleatórios(conhecidos como relés)na rede tor
+O ultimo relé do circuito (o relé de saida) envia 
+
 2- Instalando  Tails linux no virtualBox
 
 
