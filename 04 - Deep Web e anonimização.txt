@@ -25,17 +25,24 @@ O ultimo relé do circuito (o relé de saida) envia
 
 2- Instalando  Tails linux no virtualBox
 
-
+Foi instalado atails com 2gb ram e 2 processadores
 
 3- Configurando uma VPN para navegar na DeepWeb
 
-
+Instalado Tor browser
 
 4- Navegação Anônima com VPN
+
+Foi instalado Windscribe
+
+https://dnsleaktest.com/ (para saber o ip de internet) 
 
 
 5- Navegação anônima com Proxy
 
+Proxy é como se fosse outra pessoa com uma procuração
+
+existem proxy gratuito, mas nem sempre estão online (free proxy)
 
 
 
